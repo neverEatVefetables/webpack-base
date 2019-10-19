@@ -1,0 +1,4 @@
+{ "plugins": [
+  ["@babel/plugin-proposal-class-properties", { "loose": true }],
+  ["component",{"libraryName": "mint-ui", "style": true}]
+] }
